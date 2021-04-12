@@ -1,4 +1,4 @@
-# BioGames: A Behavioral Biometrics Collection Tool for for research purposes.
+# BioGames: A Behavioral Biometrics Collection Tool for research purposes.
 
 This research belongs to the University of the Aegean and is carried out in the framework of the doctoral thesis of the PhD candidate Ioannis Stylios (Department of  Information and Communication Systems Engineering),  under the supervision of the associate Professor Spyros Kokolakis. 
 If you want to try the app then download the BioGamesApp.apk and install it on your mobile device. 
